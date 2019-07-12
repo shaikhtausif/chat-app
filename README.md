@@ -2,7 +2,7 @@
 
 Chat App is chatting website where user can chat with other user with beautiful emoji picker.
 
-![Example Screenshot](https://github.com/shaikhtausif/chat-app/screenshot.png)
+![Example Screenshot](https://github.com/shaikhtausif/chat-app/blob/master/screenshot.png)
 
 ## Installation
 
