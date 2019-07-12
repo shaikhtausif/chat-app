@@ -1,0 +1,47 @@
+{
+  "name": "chat-app",
+  "title": "Chat Application",
+  "version": "1.0.0",
+  "description": "chat application with emoji picker",
+  "author": {
+    "name": "Tausif Shaikh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaikhtausif/chat-app"
+  },
+  "main": "server.js",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "express": "*",
+    "socket.io": "*"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "homepage": "https://github.com/shaikhtausif/chat-app",
+  "keywords": [
+    "socket",
+    "javascript",
+    "node",
+    "emoji",
+    "jquery-emoji",
+    "input",
+    "emoticons",
+    "icons",
+    "jquery-plugin"
+  ],
+  "bugs": "https://github.com/shaikhtausif/chat-app/issues",
+  "files": [
+    "lib",
+    "server.js",
+    "home.html",
+    "README.md",
+    "screenshot.png"
+  ]
+}
